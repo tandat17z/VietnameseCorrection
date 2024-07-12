@@ -5,3 +5,6 @@ https://colab.research.google.com/drive/1vlmkLOue_VxQW_48B5ne7dgSEOzSiVsX?usp=sh
 
 Link colab thực hiện sửa lỗi chính tả:
 https://colab.research.google.com/drive/1wMYmzOY4bjLCYqOUPY7zlbDTAQEhAV_N?usp=sharing
+
+Link báo cáo:
+https://www.overleaf.com/read/nwksfnsvqxty#a8aee0
